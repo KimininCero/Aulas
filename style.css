@@ -1,0 +1,74 @@
+body{
+    margin-top: 100px;
+    margin-bottom: 100px;
+    margin-left: 10%;
+    margin-right: 10%;
+
+    background-image: url(https://www.ibtca.org.br/admin/noticias/imagem/3.jpg);
+    background-repeat: no-repeat;
+    background-position: 30% 10%;
+    background-size: cover;
+    background-attachment: fixed;
+
+    /* background-image: linear-gradient(50deg, lightpink, pink, violet, purple); */
+
+    /* background-image: radial-gradient(circle,lightpink, pink, violet, purple ); */
+
+    /* background: rgb(162,81,117);
+    background: radial-gradient(circle, rgba(162,81,117,1) 0%, rgba(199,117,165,1) 7%, rgba(217,138,188,1) 15%, rgba(224,157,212,1) 26%, rgba(210,169,215,1) 37%, rgba(179,169,185,1) 45%, rgba(162,158,193,1) 52%, rgba(152,157,200,1) 58%, rgba(148,187,233,1) 85%, rgba(119,162,213,1) 94%); */
+}
+
+h1{
+
+    background: #adb6be;
+    color: #fce5c6;
+    font-size: 3em;
+    text-transform: capitalize;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: 900;
+    font-style: oblique;
+    margin: 50px;
+    margin-top: 20px;
+    margin-bottom: 40px;
+    margin-left: 60px;
+    margin-right: 60px;
+    padding: 30px;
+    text-align: center;
+    letter-spacing: 20px;
+    text-shadow: 7px 9px 2px #bba180
+}
+
+h2{
+ background: #fce5c6;
+ color: #adb6be;
+ font-size: 2em;
+ text-transform: none;
+ font-family: 'Courier New', Courier, monospace;
+ font-weight: 900;
+ font-style: oblique;
+ text-align: left;
+ letter-spacing: none;
+ text-shadow: 3px 3px 2px #828a92;
+
+}
+
+main{
+    text-align: center;
+
+}
+
+p{
+    text-align: justify;
+    margin: 50px;
+    background-color: #fce5c6b6;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
+
+footer{
+    font-family: cursive;
+    font-style: oblique;
+    text-align: center;
+    background-color: #fce5c6a8;
+    
+}
